@@ -57,3 +57,15 @@ Files Included
 healthcare_cleaning.sql – SQL script used for cleaning and transformation.
 cleaned_healthcare_data.csv – Cleaned dataset.
 README.md – Project documentation
+<img width="992" height="590" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/ab315884-1364-4360-9cd1-5bdedf1bbe8e" />
+Visualization
+
+An interactive Power BI dashboard was created to explore and analyze a healthcare dataset containing approximately 1,000 patient records.
+
+The dashboard includes:
+- Total patient count (KPI card)
+- Gender distribution
+- Age distribution
+- Patient admission trends
+
+Tools used: Power BI Desktop
